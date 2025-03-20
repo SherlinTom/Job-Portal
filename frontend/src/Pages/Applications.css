@@ -1,0 +1,14 @@
+.favourite-icon {
+    font-size: 22px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .favourite-icon:hover {
+    transform: scale(1.1); /* Slight zoom on hover */
+  }
+  .badge {
+    font-size: 12px;
+    margin-left: 5px;
+    padding: 4px 6px;
+  }

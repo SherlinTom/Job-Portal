@@ -1,0 +1,18 @@
+.profile-card {
+    background: linear-gradient(135deg, #7b98f5, #205264);/* Gradient background */
+    color: white; /* Text color */
+    padding: 20px;
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Soft shadow */
+    transition: transform 0.3s ease-in-out;
+    text-align: left;
+  }
+  
+  .profile-card h2 {
+    font-weight: bold;
+  }
+  
+  .profile-card p {
+    font-size: 1.2rem;
+  }
+  

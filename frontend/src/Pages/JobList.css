@@ -1,0 +1,34 @@
+/* Ensure the card has relative positioning */
+.card {
+  position: relative;
+}
+
+/* Wrapper for the badge and bookmark */
+.badge-bookmark-wrapper {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  display: flex;
+  flex-direction: column; /* Stack elements vertically */
+  align-items: flex-end; /* Align to the right */
+  gap: 5px; /* Space between badge and icon */
+}
+
+/* Badge styling */
+.badge {
+  padding: 5px 10px;
+  font-size: 12px;
+  border-radius: 5px;
+}
+
+/* Bookmark icon styling */
+.favourite-icon {
+  font-size: 22px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.favourite-icon:hover {
+  transform: scale(1.1); /* Slight zoom on hover */
+}
+
