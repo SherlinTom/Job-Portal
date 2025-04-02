@@ -173,7 +173,7 @@ const Register = () => {
         </Container>
         </Col>
         <Col className='md-6'>
-            <Image src='./Images/register.png' className='w-100' alt=''/>
+            <Image src='/Images/register.png' className='w-100' alt=''/>
         </Col>
       </Row>
     </Container>

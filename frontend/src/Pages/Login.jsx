@@ -37,8 +37,11 @@ const Login = () => {
    
   });
   return (
-  <Container className='my-5'>
-    <Row>
+     <Container>
+        <Row>
+          <Col className='md-6'>
+          <Container className='my-5'>
+              <Row>
     <Col className='mx-auto' md={12}>
       <Card style={{ backgroundColor: '#2d5649', borderColor: '#2d5649', color: '#fff', boxShadow: "3px 5px 7px rgba(0, 0, 0, 0.5)"}} >
         <Card.Body>
@@ -108,9 +111,14 @@ const Login = () => {
         </Card.Body>
         </Card>
         </Col>
-    </Row>
-    </Container>
-    
+   </Row>
+           </Container>
+           </Col>
+           <Col className='md-6'>
+               <Image src='/Images/login.png' className='w-100' alt=''/>
+           </Col>
+         </Row>
+       </Container>
   
   )
 }
