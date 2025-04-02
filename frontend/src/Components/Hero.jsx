@@ -15,7 +15,7 @@ const Hero = () => {
             </p>
           </Col>
           <Col md={7}>
-          <Image src='https://img.freepik.com/premium-vector/event-management-wedding-planner-manager-planning-event-conference-party_501813-2157.jpg' className='w-100'/>
+          <Image src='https://img.freepik.com/free-vector/tiny-people-searching-business-opportunities_74855-19928.jpg' className='w-100'/>
           </Col>
         </Row>
         </Col>
