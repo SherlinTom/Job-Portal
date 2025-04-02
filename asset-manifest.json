@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SherlinTom/Job-Portal/static/css/main.ac99d02b.css",
+    "main.js": "/SherlinTom/Job-Portal/static/js/main.ca4c93a5.js",
+    "index.html": "/SherlinTom/Job-Portal/index.html",
+    "main.ac99d02b.css.map": "/SherlinTom/Job-Portal/static/css/main.ac99d02b.css.map",
+    "main.ca4c93a5.js.map": "/SherlinTom/Job-Portal/static/js/main.ca4c93a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac99d02b.css",
+    "static/js/main.ca4c93a5.js"
+  ]
+}
