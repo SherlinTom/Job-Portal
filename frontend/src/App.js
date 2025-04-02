@@ -53,6 +53,7 @@ console.log(role);
         <ToastContainer position='top-center' autoClose={2000}/>
         <Routes>
           <Route path="/" element={<Home/>}/>
+          <Route path="/Job-Portal" element={<Home/>}/>
           <Route path="/register" element={<Register/>}/>
           <Route path="/login" element={<Login/>}/>
           <Route path="/post-a-job" element={<PostJob/>}/>
