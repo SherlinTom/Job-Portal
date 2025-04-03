@@ -115,7 +115,7 @@ const Login = () => {
            </Container>
            </Col>
            <Col className='md-6'>
-               <Image src='/Images/login.png' className='w-100' alt=''/>
+               <Image src='./Images/login.png' className='w-100' alt=''/>
            </Col>
          </Row>
        </Container>
